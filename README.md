@@ -22,6 +22,7 @@ Current build status
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/astropy-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/astropy-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/astropy-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/astropy-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/conda-forge/astropy-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/astropy-feedstock/branch/master)
+[![linux-aarch64](https://img.shields.io/shippable/5c34442bd1578b0700314ade/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/astropy-feedstock)
 
 Current release info
 ====================
